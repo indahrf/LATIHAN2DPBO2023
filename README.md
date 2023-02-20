@@ -50,5 +50,5 @@ Delete data dengan inputan yang benar dan salah, lalu read/menampilkan list maha
 ![JAVA (9)](https://user-images.githubusercontent.com/99266430/220071824-958271d5-c483-430e-bf9f-617d7b1dfd63.png)
 
 
-Exit/keluar dari program
+Exit/keluar dari program 
 ![JAVA (10)](https://user-images.githubusercontent.com/99266430/220071962-7defb265-e0c9-453d-942e-ac1eaf2ab126.png)
