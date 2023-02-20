@@ -31,7 +31,7 @@ NIM sebagai primary key
 
 Create data dengan inputan yang benar dan salah, lalu read/menampilkan list mahasiswa
 
-![JAVA (1)](https://user-images.githubusercontent.com/99266430/220070891-bb211478-3e2f-450d-ad3a-249236230177.png)
+![JAVA (11)](https://user-images.githubusercontent.com/99266430/220072422-fd5b7427-9137-4e88-92fd-c16eeeb375f3.png)
 
 ![JAVA (5)](https://user-images.githubusercontent.com/99266430/220070912-650a0108-d167-40ad-a708-d5ae4f1d9773.png)
 
