@@ -4,9 +4,9 @@ Saya Indah Resti Fauzi NIM 2103507 mengerjakan soal Latihan 2 dalam mata kuliah 
 
 =DESAIN PROGRAM=
 
-1. Membuat class Human dengan 3 private attributes (nik, nama, dan jenis_kelamin)
+1. Membuat class Human dengan 3 protected attributes (nik, nama, dan jenis_kelamin)
 2. Membuat class Civitas sebagai inheritance dari class Human dengan 2 protected attributes (asal_universitas dan email_edu)
-3. Membuat class Mahasiswa sebagai inheritance dari class Civitas dengan 3 protected attributes (nim, prodi, dan fakultas)
+3. Membuat class Mahasiswa sebagai inheritance dari class Civitas dengan 3 private attributes (nim, prodi, dan fakultas)
 4. Membuat linked list untuk mendeklarasikan list berisikan sekumpulan object mahasiswa
 5. dapat melakukan CRUD terhadap list
 
