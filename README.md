@@ -10,6 +10,8 @@ Saya Indah Resti Fauzi NIM 2103507 mengerjakan soal Latihan 2 dalam mata kuliah 
 4. Membuat linked list untuk mendeklarasikan list berisikan sekumpulan object mahasiswa
 5. dapat melakukan CRUD terhadap list
 
+![LATIHAN2DPBO drawio](https://user-images.githubusercontent.com/99266430/221128637-6c275989-c8a0-483f-9026-27908145c1b2.png)
+
 =PENJELASAN ALUR PROGRAM=
 
 1. Membuat class Human, Civitas, dan Mahasiswa dengan menambahkan attibutes nik, nama, jenis_kelamin, asal_universitas, fakultas, prodi, nim, dan email_edu
